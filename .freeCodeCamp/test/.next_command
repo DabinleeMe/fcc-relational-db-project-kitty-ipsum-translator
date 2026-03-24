@@ -64,3 +64,4 @@ cat name.txt < name.txt
 cat < name.txt
 echo DABIN
 touch script.sh
+chmod +x script.sh
