@@ -59,3 +59,4 @@ echo $NAME
 echo DABIN
 echo $NAME
 cat
+cat name.txt
