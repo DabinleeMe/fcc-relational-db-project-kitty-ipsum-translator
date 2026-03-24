@@ -70,3 +70,5 @@ chmod +x script.sh
 echo DABIN
 echo DABIN
 echo DABIN
+echo DABIN
+./script.sh < name.txt
