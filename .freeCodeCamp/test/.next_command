@@ -74,3 +74,4 @@ echo DABIN
 ./script.sh < name.txt
 ./script.sh < name.txt 2> stderr.txt
 ./script.sh < name.txt 2> stderr.txt > stdout.txt
+cat kitty_ipsum_1.txt
