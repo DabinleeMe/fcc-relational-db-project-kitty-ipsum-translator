@@ -58,3 +58,4 @@ read NAME < name.txt
 echo $NAME
 echo DABIN
 echo $NAME
+cat
