@@ -367,3 +367,5 @@ grep --color -l 'cat[a-z]*' kitty_ipsum_1.txt
 grep --color -n 'cat[a-z]*' kitty_ipsum_1.txt
 __vsc_prompt_cmd_original
 grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
