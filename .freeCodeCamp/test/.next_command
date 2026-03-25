@@ -483,3 +483,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./translate.sh < kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
 ./translate.sh kitty_ipsum_1.txt
+grep 'dogchow' kitty_info.txt
+./translate.sh kitty_ipsum_1.txt
